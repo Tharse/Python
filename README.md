@@ -1,2 +1,0 @@
-# Python
-Projet Python Scrapping
